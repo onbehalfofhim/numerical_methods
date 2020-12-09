@@ -25,3 +25,9 @@ project(numerical_methods)
 
 
 add_subdirectory(final_work)
+add_subdirectory(1equation)
+add_subdirectory(2false_pos)
+add_subdirectory(3SLAE)
+add_subdirectory(4interpolation)
+add_subdirectory(6integral)
+add_subdirectory(7runge_kutta)

@@ -1,0 +1,2 @@
+add_executable(2false_position false_position.cpp)
+set_property(TARGET 2false_position PROPERTY CXX_STANDARD 17)
